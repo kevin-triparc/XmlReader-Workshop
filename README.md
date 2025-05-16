@@ -1,6 +1,6 @@
 # XmlReader
 
-Este proyecto es un lector de XML basado en el proyecto [BaseXml](https://github.com/canro91/BaseXml) de [canro91](https://github.com/canro91).
+Mi workshop para lector de XML basado en el proyecto [BaseXml](https://github.com/canro91/BaseXml) de [canro91](https://github.com/canro91).
 
 XmlReader permite:
 - Leer y manipular documentos XML
